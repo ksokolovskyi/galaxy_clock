@@ -1,4 +1,5 @@
 # galaxy_clock
 
-Galaxy Clock: app for the Flutter Clock challenge
+Galaxy Clock
 
+This is the app made for the Flutter Clock challenge.
